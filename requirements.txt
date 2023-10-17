@@ -1,0 +1,7 @@
+boto3
+fastapi
+mangum
+uvicorn
+python-dotenv
+PyJWT
+python-jose
